@@ -1,4 +1,4 @@
-# PantryPilot — AI-Powered Recipe Studio
+# PantryPilot - AI-Powered Recipe Studio
 
 PantryPilot is an AI-powered recipe web application that helps users turn the ingredients they have into meal ideas. Choose ingredients and dietary preferences to generate recipes, explore AI-created food images, listen to recipe narration, and ask questions about individual recipes.
 
