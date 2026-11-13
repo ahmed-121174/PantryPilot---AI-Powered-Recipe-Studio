@@ -235,5 +235,3 @@ Contributions, bug reports, and suggestions are welcome. For significant changes
 - [Vercel](https://vercel.com/)
 
 ---
-
-**Suggested project name:** PantryPilot — short, memorable, and connected to the app's core idea of turning available pantry ingredients into recipe suggestions.
